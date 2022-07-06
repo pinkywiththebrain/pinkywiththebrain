@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinkywiththebrain but you can call me Sophie!
 - 👀 I’m interested in art, video games, and creative web design.
-- 🌱 I’m currently learning the basics! HTML, CSS, & Javascript.
+- 🌱 I’m currently a bootcamp student learning the basics!
 - 💞️ I’m looking to collaborate on small beginner projects.
 - 📫 How to reach me @pinkh0rns on social media!
 
